@@ -1,4 +1,4 @@
-IntHistGC
+# IntHistGC
 
 See paper: R. Goré, J. Thomson, J. Wu. A History-Based Theorem Prover for Intuitionistic Propositional Logic using Global Caching: IntHistGC System Description. IJCAR 2014. LNCS (LNAI) 8562, pp. 262-268, Springer (2014).
 
